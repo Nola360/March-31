@@ -1,1 +1,1 @@
-worker: node body.js
+web npm start
